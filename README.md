@@ -7,8 +7,7 @@ Web Developer.
 *   🌍  I'm based in Eastern Province, Saudi Arabia
 *   ✉️  You can contact me at [div.omaralnajjar@gmail.com](mailto:div.omaralnajjar@gmail.com)
 *   🧠  I'm learning Flutter and UI design
-*   🤝  I'm open to collaborating on anything, just hit me up
-<br/>
+*   🤝  I'm open to collaborating on anything, just hit me up
 
 ### Skills
 
