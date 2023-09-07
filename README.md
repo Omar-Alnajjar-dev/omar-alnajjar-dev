@@ -9,6 +9,7 @@ Web Developer.
 *   🧠  I'm learning Flutter and UI design
 *   🤝  I'm open to collaborating on anything, just hit me up
 <br/>
+
 ### Skills
 
 <p align="left">
