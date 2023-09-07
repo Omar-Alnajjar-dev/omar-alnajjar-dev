@@ -8,7 +8,7 @@ Web Developer.
 *   ✉️  You can contact me at [div.omaralnajjar@gmail.com](mailto:div.omaralnajjar@gmail.com)
 *   🧠  I'm learning Flutter and UI design
 *   🤝  I'm open to collaborating on anything, just hit me up
-
+<br/>
 ### Skills
 
 <p align="left">
