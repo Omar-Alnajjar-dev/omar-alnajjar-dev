@@ -37,8 +37,9 @@ Web Developer.
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
 </picture>
 </a></p>
+
 ### Badges
-<a href="https://github.com/Omar-Alnajjar-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Alnajjar-dev&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Omar-Alnajjar-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Alnajjardev&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
 **Omar-Alnajjar-dev/omar-alnajjar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
